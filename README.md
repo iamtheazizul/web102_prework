@@ -19,6 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
+![Imgur Image]([http://i.imgur.com/zTONrOD.jpg](https://imgur.com/a/9H0nnJO.gif))
+
 <img src='https://imgur.com/a/9H0nnJO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
