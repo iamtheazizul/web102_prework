@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<video src="https://i.imgur.com/ZgNJB00.mp4" width="300" controls></video>
+![Animated GIF](gif.gif)
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
