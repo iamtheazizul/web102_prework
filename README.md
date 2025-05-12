@@ -19,10 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://imgur.com/a/9H0nnJO.gif" alt="Video Walkthrough" width="300">
+<video src="https://i.imgur.com/ZgNJB00.mp4" width="300" controls></video>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
