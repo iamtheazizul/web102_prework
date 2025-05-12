@@ -2,7 +2,7 @@
 
 Submitted by: **Azizul Hakim**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Auction** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **8** hours spent in total
 
@@ -19,9 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-![Imgur Image]([http://i.imgur.com/zTONrOD.jpg](https://imgur.com/a/9H0nnJO.gif))
-
-<img src='https://imgur.com/a/9H0nnJO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/9H0nnJO.gif" alt="Video Walkthrough" width="300">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
